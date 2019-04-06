@@ -6370,7 +6370,7 @@ function connect(options) {
       error.name = err.name;
       error.stack = err.stack; // __NEXT_DIST_DIR is provided by webpack
 
-      source_map_support_1.rewriteStacktrace(error, "/Users/calvincheung/code/calvchum/wholefoods-nextjs/.next");
+      source_map_support_1.rewriteStacktrace(error, "/Users/benquartermaine/code/BenQuartermaine/organic-wholefoods-master/.next");
       return error;
     }
   };
